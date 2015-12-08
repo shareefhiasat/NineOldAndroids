@@ -47,6 +47,9 @@ a dependency:
     </dependency>
 
 
+If you are using gradle you can add it using:
+
+  ` compile 'com.nineoldandroids:library:2.4.0+'`
 
 Developed By
 ============
